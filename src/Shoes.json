@@ -1,0 +1,77 @@
+{
+    "air-jordan-3-valor-blue": {
+      "name": "Valour Blue",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "jordan-mars-270-london": {
+      "name": "Jordan Mars 270 London",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air-jordan-1-zoom-racer-blue": {
+      "name": "Racer Blue",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "air-max-97": {
+      "name": "Nike Air Max 97",
+      "img":
+        "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/azmihba3pidhx72i7div/air-max-97-shoe-4m8StN.jpg"
+    },
+    "react-vision": {
+      "name": "Nike React Vision",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f00112b7-ea8e-46f4-9479-c32164104801/react-vision-shoe-mhp2XD.jpg"
+    },
+    "blazer-mid-77": {
+      "name": "Nike Blazer Mid '77",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/58c976f3-34fb-41f3-82e8-15501f76ffd0/air-zoom-terra-kiger-6-trail-running-shoe-1QlNkj.jpg"
+    },
+    "air-zoom-terra-kiger-6": {
+      "name": "Nike Air Zoom Terra Kiger 6",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/41eed61f-7f02-4275-870a-fb9e39dfe164/blazer-mid-77-shoe-5Z2NRx.jpg"
+    },
+    "lebron-17": {
+      "name": "LeBron 17",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3baa4750-ee98-4bca-9034-22c7265b9e89/lebron-17-basketball-shoe-1FqdJ7.jpg"
+    },
+    "mercurial-vapor-13-elite-fg": {
+      "name": "Nike Mercurial Vapor 13 Elite FG",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/075ae8b0-b480-47bd-ace7-3c56a63437ef/mercurial-vapor-13-elite-fg-football-boot-Hw6ngD.jpg"
+    },
+    "jordan-why-not-zer03-se": {
+      "name": "Jordan 'Why Not?' Zer0.3 SE",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/933b8a6e-39d6-4e7e-8bda-04f9ab1e7123/jordan-why-not-zer03-se-basketball-shoe-ZSX170.jpg"
+    },
+    "jordan-max-aura-2": {
+      "name": "Jordan Max Aura 2",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/7575f155-2322-43e0-8541-dc6d00be6bbc/jordan-max-aura-2-shoe-df4XZl.jpg"
+    },
+    "air-zoom-pegasus-37": {
+      "name": "Nike Air Zoom Pegasus 37",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ece33441-78d2-404f-819d-2d5064409efa/air-zoom-pegasus-37-running-shoe-GFWMGT.jpg"
+    },
+    "lebron-17-fp": {
+      "name": "LeBron 17 FP",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/85747eea-86fc-4972-9d9b-1ab821ace57b/lebron-17-fp-basketball-shoe-K7l8Cc.jpg"
+    },
+    "kyrie-6-triple-black": {
+      "name": "Kyrie 6 'Triple Black'",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ab375125-6b0d-4ab5-a2d7-2c8503896f08/kyrie-6-triple-black-basketball-shoe-VNtpvk.jpg"
+    },
+    "kd13": {
+      "name": "KD13",
+      "img":
+        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2735891c-274c-4312-ae8e-bb8c68c4a1ca/kd13-basketball-shoe-4T0rRJ.jpg"
+    }
+  }
