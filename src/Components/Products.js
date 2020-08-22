@@ -4,7 +4,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import {Link} from 'react-router-dom';
-import {ProductsDetail} from './ProductsDetail'
 
 const useStyles = makeStyles((theme) => ({
     root: {
@@ -15,7 +14,6 @@ const useStyles = makeStyles((theme) => ({
         margin: theme.spacing(1),
         width: '323px',
         height: '400px',
-        margin:'0 auto',
         marginBottom: '20px',
         background: 'linear-gradient(45deg, #b8f2e6 30%, #b2dbbf 90%)',
       },
@@ -79,7 +77,7 @@ export const Products = () => {
                         <Paper elevation={3} className={classes.Card}>
                         <Link key="keyname" to={`/Products/${keyName}`} className={classes.Link}>
                             <h2>{shoe.name}</h2>
-                            <img src={shoe.img} alt="Shoe image" className={classes.image} />
+                            <img src={shoe.img} alt="Shoe" className={classes.image} />
                         </Link>
                         </Paper>
                     )

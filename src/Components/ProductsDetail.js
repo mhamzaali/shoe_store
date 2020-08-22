@@ -60,7 +60,7 @@ export const ProductsDetail = () => {
         <div className={classes.root}>
             <Grid container spacing={3}>
                 <Grid item xs={6}>
-                    <img src={shoe.img} alt="Shoe image" className={classes.image} />
+                    <img src={shoe.img} alt="Shoe" className={classes.image} />
                 </Grid>
                 <Grid item xs={6}>
                     <h2 className={classes.title} >{shoe.name}</h2>
