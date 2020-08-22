@@ -14,7 +14,7 @@ const useStyles = makeStyles((theme) => ({
         margin: theme.spacing(1),
         width: '323px',
         height: '400px',
-        marginBottom: '20px',
+        margin: '0 auto',
         background: 'linear-gradient(45deg, #b8f2e6 30%, #b2dbbf 90%)',
       },
 
