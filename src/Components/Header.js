@@ -15,8 +15,11 @@ const useStyles = makeStyles((theme) => ({
   root: {
     flexGrow: 1,
   },
+  Bar:{
+    background: 'linear-gradient(90deg, #2b2d42 30%, #333533 90%)',
+  },
   title: {
-    flexGrow: 0.03,
+    flexGrow: 0.05,
   },
   cart: {
     position: 'absolute',
@@ -24,10 +27,13 @@ const useStyles = makeStyles((theme) => ({
   },
   HyperLink: {
     fontSize: '14px',
+    fontFamily:'Keep Calm',
     textDecoration: 'none',
     color: 'white',
     '&:hover': {
+      background:'white',
       color: 'black',
+      padding : '30px 10px 30px 10px'
     },
   },
 
