@@ -6,10 +6,10 @@ import Typography from '@material-ui/core/Typography';
 
 const useStyles = makeStyles((theme) => ({
     root: {
-      background: 'linear-gradient(45deg, #b8f2e6 30%, #b2dbbf 90%)',
+      background: 'linear-gradient(45deg, #88d498 35%, #b2dbbf 70%)',
       height:'100%',
-      paddingTop:'200px',
-      paddingBottom:'200px'
+      paddingTop:'300px',
+      paddingBottom:'300px'
 
     },
     title: {
@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
           color: 'black',
           background: 'linear-gradient(90deg, #c52233 30%, #580c1f 90%)',
         '&:hover': {
-            background: 'linear-gradient(45deg, #ff8c61 30%, #48bfe3 90%)',
+            background: 'linear-gradient(45deg, #1c2541 30%, #b2f7ef 90%)',
             color:'black',
          },
       },

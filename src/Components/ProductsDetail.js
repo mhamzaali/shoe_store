@@ -11,10 +11,9 @@ const useStyles = makeStyles((theme) => ({
     root: {
         paddingTop: '50px',
         background: 'linear-gradient(45deg, #ff8c61 30%, #ff8c91 90%)',
-        height: '100%',
+        height: '650px',
         textAlign: 'center',
         overflowX: 'hidden',
-        paddingBottom:'90px',
     },
     title: {
         textAlign: 'left',
