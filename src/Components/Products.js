@@ -11,10 +11,10 @@ const useStyles = makeStyles((theme) => ({
       flexWrap: 'wrap',
       textAlign:'center',
       '& > *': {
-        margin: theme.spacing(1),
+        margin: '0 auto',
         width: '323px',
         height: '400px',
-        margin: '0 auto',
+        marginBottom: '20px',
         background: 'linear-gradient(45deg, #b8f2e6 30%, #b2dbbf 90%)',
       },
 
